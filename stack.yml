@@ -12,11 +12,11 @@ services:
       - $PWD/content:/var/lib/ghost/content
     environment:
       # see https://docs.ghost.org/docs/config#section-running-ghost-with-config-env-variables
-      url: 'http://fizzil.red'
+      url: 'http://localhost:2368'
       database__client: mysql
-      database__connection__host: 45.78.51.195
+      database__connection__host: localhost
       database__connection__user: root
-      database__connection__password: anywhere
+      database__connection__password: example
       database__connection__database: ghost
       database__connection__port: 3306
 
