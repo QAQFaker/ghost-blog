@@ -1,0 +1,22 @@
+# by default, the Ghost image will use SQLite (and thus requires no separate database container)
+# we have used MySQL here merely for demonstration purposes (especially environment-variable-based configuration)
+
+version: '3.1'
+
+services:
+  ghost:
+    image: ghost:2.9
+    ports:
+      - 2368:2368
+    volumes:
+      - $PWD/content:/var/lib/ghost/content
+    environment:
+      # see https://docs.ghost.org/docs/config#section-running-ghost-with-config-env-variables
+      url: 'http://fizzil.red'
+      database__client: mysql
+      database__connection__host: 45.78.51.195
+      database__connection__user: root
+      database__connection__password: anywhere
+      database__connection__database: ghost
+      database__connection__port: 3306
+

@@ -1,0 +1,43 @@
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: posts ","time":"2019-01-04T07:44:15.993Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: users ","time":"2019-01-04T07:44:17.060Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: posts_authors ","time":"2019-01-04T07:44:18.351Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: roles ","time":"2019-01-04T07:44:21.457Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: roles_users ","time":"2019-01-04T07:44:22.413Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: permissions ","time":"2019-01-04T07:44:23.112Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: permissions_users ","time":"2019-01-04T07:44:24.481Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: permissions_roles ","time":"2019-01-04T07:44:25.543Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: permissions_apps ","time":"2019-01-04T07:44:26.470Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: settings ","time":"2019-01-04T07:44:27.274Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: tags ","time":"2019-01-04T07:44:28.350Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: posts_tags ","time":"2019-01-04T07:44:29.393Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: apps ","time":"2019-01-04T07:44:31.764Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: app_settings ","time":"2019-01-04T07:44:32.817Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: app_fields ","time":"2019-01-04T07:44:34.331Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: clients ","time":"2019-01-04T07:44:35.649Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: client_trusted_domains ","time":"2019-01-04T07:44:36.957Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: accesstokens ","time":"2019-01-04T07:44:38.603Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: refreshtokens ","time":"2019-01-04T07:44:41.203Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: subscribers ","time":"2019-01-04T07:44:43.902Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: invites ","time":"2019-01-04T07:44:45.146Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: brute ","time":"2019-01-04T07:44:46.305Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: webhooks ","time":"2019-01-04T07:44:46.600Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: sessions ","time":"2019-01-04T07:44:47.595Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: integrations ","time":"2019-01-04T07:44:48.651Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: api_keys ","time":"2019-01-04T07:44:50.120Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: mobiledoc_revisions ","time":"2019-01-04T07:44:51.143Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Creating table: members ","time":"2019-01-04T07:44:52.209Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Model: Tag ","time":"2019-01-04T07:44:53.181Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Model: Client ","time":"2019-01-04T07:44:53.221Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Model: Role ","time":"2019-01-04T07:44:53.245Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Model: Permission ","time":"2019-01-04T07:44:53.276Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Model: User ","time":"2019-01-04T07:44:53.608Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Model: Post ","time":"2019-01-04T07:44:54.302Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Relation: Role to Permission ","time":"2019-01-04T07:44:55.607Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Relation: Post to Tag ","time":"2019-01-04T07:44:56.020Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Relation: User to Role ","time":"2019-01-04T07:44:56.107Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":40,"msg":"Theme's file locales/en.json not found. ","time":"2019-01-04T07:45:00.479Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Ghost is running in production... ","time":"2019-01-04T07:45:03.948Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Your blog is now available on http://localhost:2368/ ","time":"2019-01-04T07:45:03.950Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Ctrl+C to shut down ","time":"2019-01-04T07:45:03.950Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":30,"msg":"Ghost boot 58.941s ","time":"2019-01-04T07:45:03.953Z","v":0}
+{"name":"Log","hostname":"aa32899b56ca","pid":1,"level":40,"msg":"Ghost has shut down ","time":"2019-01-04T07:45:04.524Z","v":0}
